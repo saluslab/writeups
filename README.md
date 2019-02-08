@@ -5,3 +5,7 @@ In Here you will find writeups to Salus Lab Challenges provided by the community
 **Ahmad Bahaa** : [Writeup](https://patch8.com/saluslab-mqtt-challenge/)
 
 **Amr Fathi** : [Writeup](/Broker_Flag/AmrFathi.pdf)
+
+## [Binary](/Binary/Readme.md)
+
+**Boris Parat** :[Writeup](/Binary/BorisParat.md)
