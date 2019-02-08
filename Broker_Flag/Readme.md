@@ -4,8 +4,12 @@ This Challenge is to test Basic IoT Understaning of MQTT Protocol where challeng
 
 ## Challenge 
 48 Hrs Challenge 
+
 Difficulty : Hard 
+
 No Information or Hits Given intentionally :p Just a script
+
+Status : Up
 ```python
 >>> import base64
 >>> msg = msg + " "+ base64.b64encode(data)
