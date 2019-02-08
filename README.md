@@ -2,8 +2,8 @@
 
 In Here you will find writeups to Salus Lab Challenges provided by the community 
 
-## Broker's Flag
+## [Broker's Flag](/Broker_Flag/Readme.md)
 
-**Ahmad Bahaa** : [Solution](https://patch8.com/saluslab-mqtt-challenge/)
+**Ahmad Bahaa** : [Writeup](https://patch8.com/saluslab-mqtt-challenge/)
 
-**Amr Fathi** : [Solution](/Broker_Flag/AmrFathi.pdf)
+**Amr Fathi** : [Writeup](/Broker_Flag/AmrFathi.pdf)
